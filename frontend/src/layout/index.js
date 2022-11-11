@@ -219,7 +219,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            Whatsapp | Seu WhatsApp Web em vários computadores!
+            MeuHub - WaSap Multiatendimento
           </Typography>
           {user.id && <NotificationsPopOver />}
 
